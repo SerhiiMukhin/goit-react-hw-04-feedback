@@ -5,12 +5,13 @@
 
 .results {
   display: flex;
+  gap: 10px;
   justify-content: space-around;
   margin-bottom: 15px;
 }
 
 .item {
-  width: 85px;
+  width: auto;
   height: 30px;
   padding: 5px;
   background-color: lightgreen;
